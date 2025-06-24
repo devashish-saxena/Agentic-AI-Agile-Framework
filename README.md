@@ -16,7 +16,7 @@ Built to help organizations **move beyond pilots** and into scalable, trusted pr
 
 ---
 
-## 🧭 Audience
+## Audience
 
 Designed for:
 - Chief Digital Officers (CDO)
@@ -27,7 +27,7 @@ Designed for:
 
 ---
 
-## 💡 Key Concepts
+## Key Concepts
 
 Agentic AI systems are non-deterministic, adaptive, and capable of operating with autonomy across complex workflows. This framework provides:
 
@@ -39,7 +39,7 @@ Agentic AI systems are non-deterministic, adaptive, and capable of operating wit
 
 ---
 
-## 🚀 Framework Use Modes
+## Framework Use Modes
 
 | Mode                  | When to Use                                         |
 |-----------------------|----------------------------------------------------|
@@ -51,7 +51,7 @@ _This release focuses entirely on **Enterprise Trust Mode**._
 
 ---
 
-## 🏗️ Phases
+## Phases
 
 0. **DISCOVERY**: Human-centric discovery and baseline KPIs
 1. **DEFINE**: Strategic agent(ic) blueprint
@@ -62,7 +62,7 @@ _This release focuses entirely on **Enterprise Trust Mode**._
 
 ---
 
-## 🛡️ Key Principles
+## Key Principles
 
 - **Trust & Risk Posture**: Guardrails, ethics, explainability, accountability
 - **Continuous Validation**: RLHF, red-teaming, automated evaluation harnesses
@@ -71,7 +71,7 @@ _This release focuses entirely on **Enterprise Trust Mode**._
 
 ---
 
-## 📚 References
+## References
 
 This framework draws upon research and insights from:
 - PwC, McKinsey, BCG, Deloitte, Booz Allen
@@ -83,7 +83,7 @@ Full reference list included in the [Framework PDF](./Enterprise%20Agentic%20AI%
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 This is an **open, evolving framework** — contributions and feedback are welcome!
 
@@ -91,7 +91,7 @@ Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is not a product — it is an **operating model and playbook** to help CxOs and senior leaders harness Agentic AI **safely and effectively** at enterprise scale.
 
