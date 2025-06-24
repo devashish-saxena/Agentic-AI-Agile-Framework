@@ -86,7 +86,7 @@ Full reference list included in the [Framework PDF](./docs/Enterprise%20Agentic%
 ## How to Contribute
 
 This is an **open, evolving framework** — contributions and feedback are welcome!
-Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING.md](./contributing.md) for details.
 
 ---
 
