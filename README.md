@@ -12,5 +12,9 @@ This framework primarily focuses on scaled deployment of agentic AI systems at t
 It is intended for enterprise leaders and builders working in contexts where trust, compliance, impact measurement, and organizational integration are non-negotiable.
 For experimentation or lean use cases, teams may selectively adapt portions of this framework — especially Phase 0 (Human-Centric Discovery), Agentic Epics, and KPI alignment — but are encouraged to evolve toward Enterprise Trust Mode for long-term sustainability.
 
+Latest framework documents (uploaded June 24, 2025):
+Enterprise Agentic AI Agile Framework for CxOs v5.pdf
+Enterprise Agentic AI Agile Framework for CxOs v5.pptx
+
 Audience: 
 CDO, CIO, CAIO, CDAIO, Product & Engineering Leaders, Transformation PMOs.
