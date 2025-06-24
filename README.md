@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Purpose
+## Purpose
 
 An open, end-to-end **operating model** for conceiving, designing, testing, deploying, and governing **enterprise-grade agentic AI systems**.
 Built to help organizations **move beyond pilots** and into scalable, trusted production deployments.
@@ -79,7 +79,7 @@ This framework draws upon research and insights from:
 - OSS tools (LangChain, CrewAI, AutoGen, agentbench)
 - Thought leadership from NVIDIA, Amazon, Moody’s, and more
 
-Full reference list included in the [Framework PDF](./Enterprise%20Agentic%20AI%20Agile%20Framework%20for%20CXOs%20v5.pdf).
+Full reference list included in the [Framework PDF](./docs/Enterprise%20Agentic%20AI%20Agile%20Framework%20for%20CXOs%20v5.pdf).
 
 ---
 
