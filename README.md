@@ -1,20 +1,98 @@
-Enterprise Agentic AI Agile Framework v5
-A Comprehensive “People and Process‑First” Playbook
+---
+## README.md
 
-Release Date: June 2025	License: CC BY 5.0
-Author: Devashish Saxena (devashishsaxena@gmail.com)
+# Enterprise Agentic AI Agile Framework (v5)
 
-Purpose: 
-End-to-end operating model for conceiving, designing, testing, and governing enterprise-grade agentic AI systems. Assumes the critical step of prioritization of business use cases based on potential impact has already been done as a separate and prior exercise.
+**Author:** Devashish Saxena  
+**Release Date:** June 2025  
+**License:** CC BY 4.0
 
-This framework primarily focuses on scaled deployment of agentic AI systems at the enterprise level. The intention is to provide practitioners with a comprehensive playbook from which they can adapt their approach based on the context of their specific use case, and the business environment at the enterprise. As such this framework is designed to be modular and scalable, recognizing that agentic AI systems vary widely in complexity, risk, and context of use. While some projects may only need lightweight, LLM-assisted development, others require full-scale, cross-functional governance and rigorous testing.
+---
 
-It is intended for enterprise leaders and builders working in contexts where trust, compliance, impact measurement, and organizational integration are non-negotiable.
-For experimentation or lean use cases, teams may selectively adapt portions of this framework — especially Phase 0 (Human-Centric Discovery), Agentic Epics, and KPI alignment — but are encouraged to evolve toward Enterprise Trust Mode for long-term sustainability.
+## 🌟 Purpose
 
-Latest framework documents (uploaded June 24, 2025):
-Enterprise Agentic AI Agile Framework for CxOs v5.pdf
-Enterprise Agentic AI Agile Framework for CxOs v5.pptx
+An open, end-to-end **operating model** for conceiving, designing, testing, deploying, and governing **enterprise-grade agentic AI systems**.
+Built to help organizations **move beyond pilots** and into scalable, trusted production deployments.
 
-Audience: 
-CDO, CIO, CAIO, CDAIO, Product & Engineering Leaders, Transformation PMOs.
+---
+
+## 🧭 Audience
+
+Designed for:
+- Chief Digital Officers (CDO)
+- Chief Information Officers (CIO)
+- Chief AI Officers (CAIO, CDAIO)
+- CTOs, Product & Engineering Leaders
+- Transformation PMOs and Digital COEs
+
+---
+
+## 💡 Key Concepts
+
+Agentic AI systems are non-deterministic, adaptive, and capable of operating with autonomy across complex workflows. This framework provides:
+
+- A **People and Process First** methodology
+- Clear **phases and governance gates**
+- Deep focus on **trust, ethics, and risk management**
+- Techniques for **semi-agentic design** with human oversight
+- Scalable operating patterns for **real-world enterprise systems**
+
+---
+
+## 🚀 Framework Use Modes
+
+| Mode                  | When to Use                                         |
+|-----------------------|----------------------------------------------------|
+| Lean XP Mode          | Small, internal, low-risk agents                    |
+| Agile Pilot Mode      | Focused pilots seeking measurable value             |
+| **Enterprise Trust Mode** | Regulated, scaled, or user-facing agents (**default**) |
+
+_This release focuses entirely on **Enterprise Trust Mode**._
+
+---
+
+## 🏗️ Phases
+
+0. **DISCOVERY**: Human-centric discovery and baseline KPIs
+1. **DEFINE**: Strategic agent(ic) blueprint
+2a. **DESIGN**: Agent architecture, interactions, integrations
+2b. **DEVELOP**: Iterative development, testing, and validation
+3. **OPERATE**: Human feedback loops and continuous improvement
+4. **DEPLOY**: Scaled rollout, monitoring, value realization
+
+---
+
+## 🛡️ Key Principles
+
+- **Trust & Risk Posture**: Guardrails, ethics, explainability, accountability
+- **Continuous Validation**: RLHF, red-teaming, automated evaluation harnesses
+- **Observability & Drift Detection**: Real-time monitoring, adaptive tuning
+- **People First**: Driving cross-functional collaboration & adoption
+
+---
+
+## 📚 References
+
+This framework draws upon research and insights from:
+- PwC, McKinsey, BCG, Deloitte, Booz Allen
+- AOSE (Agent-Oriented Software Engineering) literature
+- OSS tools (LangChain, CrewAI, AutoGen, agentbench)
+- Thought leadership from NVIDIA, Amazon, Moody’s, and more
+
+Full reference list included in the [Framework PDF](./Enterprise%20Agentic%20AI%20Agile%20Framework%20for%20CXOs%20v5.pdf).
+
+---
+
+## 🤝 How to Contribute
+
+This is an **open, evolving framework** — contributions and feedback are welcome!
+
+Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
+
+---
+
+## ⚠️ Disclaimer
+
+This is not a product — it is an **operating model and playbook** to help CxOs and senior leaders harness Agentic AI **safely and effectively** at enterprise scale.
+
+---
